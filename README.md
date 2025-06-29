@@ -1,1 +1,1 @@
-# binclusive-google-tag-manager
+Google tag manager template for Binclusive widget
