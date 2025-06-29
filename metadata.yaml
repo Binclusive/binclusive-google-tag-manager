@@ -1,5 +1,5 @@
 homepage: "https://www.binclusive.io"
 documentation: "https://www.binclusive.io/docs"
 versions:
-  - sha: a7179e6607c5932dcd99e96ea78aaa91d7105395
+  - sha: 99740a2dba5491d2fdf122ba40e353194af9e7dc
     changeNotes: Initial release.
